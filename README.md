@@ -1,2 +1,2 @@
-# Vacuum-Tube-Necklace
+# Plasma-Tube-Necklace
 A rectifier tube plasma necklace!
